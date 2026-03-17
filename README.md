@@ -2,6 +2,7 @@
 
 [![Gem Version](https://badge.fury.io/rb/peasytext.svg)](https://rubygems.org/gems/peasytext)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![GitHub stars](https://agentgif.com/badge/github/peasytools/peasytext-rb/stars.svg)](https://github.com/peasytools/peasytext-rb)
 
 Ruby client for the [PeasyText](https://peasytext.com) API -- text case conversion, slug generation, word counting, and encoding utilities with tools for camelCase, snake_case, kebab-case, PascalCase, and more. Zero dependencies beyond Ruby stdlib (Net::HTTP, JSON, URI).
 
