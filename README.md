@@ -11,7 +11,7 @@ Built from [PeasyText](https://peasytext.com), a comprehensive text processing t
 > **Try the interactive tools at [peasytext.com](https://peasytext.com)** -- [Text Counter](https://peasytext.com/text/text-counter/), [Case Converter](https://peasytext.com/text/text-case-converter/), [Slug Generator](https://peasytext.com/text/slug-generator/), and more.
 
 <p align="center">
-  <img src="demo.gif" alt="peasytext demo -- text case conversion, slug generation, and word count tools in Ruby terminal" width="800">
+  <a href="https://agentgif.com/JRLNVWdb"><img src="https://media.agentgif.com/JRLNVWdb.gif" alt="peasytext demo -- text case conversion, slug generation, and word count tools in Ruby terminal" width="800"></a>
 </p>
 
 ## Table of Contents
